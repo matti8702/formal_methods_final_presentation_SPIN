@@ -1,0 +1,5 @@
+*.trail
+*.tmp
+*.swarm
+*.out
+script[0-9]*
