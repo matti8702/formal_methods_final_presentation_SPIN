@@ -6,6 +6,7 @@ Repository for the **final presentation** of the course **Formal Methods for Sof
 
 The repository is organized into the following main folders:
 
+- `deliverable/` → final presentation slides
 - `demo/` → PROMELA models
 
 ## Project overview
